@@ -27,6 +27,14 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     
+    
+    
+    
+    
+    
+    
+    
+    
     MSHuman* human = [[MSHuman alloc] init];
     MSCyclist* cyclist = [[MSCyclist alloc] init];
     MSRunner* runner = [[MSRunner alloc] init];
